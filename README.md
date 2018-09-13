@@ -1,2 +1,5 @@
 # hello-word
-just  another repository 
+Hi humans!
+
+that is great!
+I believe that program is so easy!
