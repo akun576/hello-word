@@ -1,5 +1,5 @@
 # hello-word
 Hi humans!
 
-that is great!
-I believe that program is so easy!
+English is great!
+I believe that English is so easy!
